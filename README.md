@@ -1,6 +1,6 @@
 # Update Service
 
-**中文** | [English](/README.en.md)
+**中文** 
 
 ---
 
@@ -8,23 +8,15 @@
 
 [贡献指南](/CONTRIBUTING.md)
 
-## Index URL
-- **Github** https://raw.githubusercontent.com/isHuaMouRen/UpdateService/refs/heads/main/index.json
-- **Gitee** https://gitee.com/huamouren110/UpdateService/raw/main/index.json
-- **Gitcode** https://raw.gitcode.com/HuaMouRen/UpdateService/raw/main/index.json
-
 ## 储存库
 
-[Github](https://github.com/isHuaMouRen/UpdateService)  
-[Gitee](https://gitee.com/huamouren110/UpdateService)  
-[Gitcode](https://gitcode.com/HuaMouRen/UpdateService)  
+[Github](https://github.com/Hanxing-Developer-Group/UpdateService)  
+
 
 ## 项目
 
-|项目名|描述|所有者|仓库链接|
-|-|-|-|-|
-|ARCV4|ARCV4 File repository|[Xiaowang0229](https://github.com/Xiaowang0229)|[跳转](https://github.com/Xiaowang0229/ARCV4)|
-|test|用于测试文件结构的项目|[isHuaMouRen](https://github.com/isHuaMouRen)|*None*|
+|项目名|描述|仓库链接|
+|-|-|-|
+|ARCV4|ARCV4 File repository|[Xiaowang0229](https://github.com/Xiaowang0229)|(https://github.com/Hanxing-Developer-Group/ARCV4)|
+|RocketLauncher|Rocket Launcher File Repository|[Xiaowang0229](https://github.com/Xiaowang0229)|(https://github.com/Hanxing-Developer-Group/MultiGameLauncher)|
 
-## Star 趋势
-[![Stargazers over time](https://starchart.cc/isHuaMouRen/UpdateService.svg?variant=light)](https://starchart.cc/isHuaMouRen/UpdateService)

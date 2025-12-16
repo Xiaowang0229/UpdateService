@@ -17,6 +17,6 @@
 
 |项目名|描述|仓库链接|
 |-|-|-|
-|ARCV4|ARCV4 File repository|[Xiaowang0229](https://github.com/Xiaowang0229)|(https://github.com/Hanxing-Developer-Group/ARCV4)|
-|RocketLauncher|Rocket Launcher File Repository|[Xiaowang0229](https://github.com/Xiaowang0229)|(https://github.com/Hanxing-Developer-Group/MultiGameLauncher)|
+|ARCV4|ARCV4 File repository|[Xiaowang0229](https://github.com/Xiaowang0229)|[Jump](https://github.com/Hanxing-Developer-Group/ARCV4)|
+|RocketLauncher|Rocket Launcher File Repository|[Xiaowang0229](https://github.com/Xiaowang0229)|[Jump](https://github.com/Hanxing-Developer-Group/MultiGameLauncher)|
 

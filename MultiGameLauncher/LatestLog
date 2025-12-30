@@ -1,12 +1,11 @@
-### Release 1.3.0.0 RC2-HotFix 1 版本更新日志
-#### 更新时间：25/12/29 19:00:00(UTC+8)
+### Release 1.3.0.0 RC2-HotFix 2 版本更新日志
+#### 更新时间：25/12/30 19:00:00(UTC+8)
 ---
 **已修复漏洞**
 --
-- 更改程序目录时上写可置空但不能置空
-- 退出游戏不显示提示
-- 替换程序内大部分位图为矢量图
-- 更新了《许可协议》
+- 修复删除程序时出现文件无法找到的问题 ([#26](https://github.com/Xiaowang0229/MultiGameLauncher/issues/26))
+- 修复游戏数量为0时无限重启 ([#25](https://github.com/Xiaowang0229/MultiGameLauncher/issues/25))
+- 修复图片缓存无法刷新的问题 ([#24](https://github.com/Xiaowang0229/MultiGameLauncher/issues/24))
 
 **计划添加/修复**
 --
